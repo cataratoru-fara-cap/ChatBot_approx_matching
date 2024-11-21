@@ -1,0 +1,6 @@
+name: chatbot
+channels:
+  - defaults
+dependencies:
+  - gradio
+prefix: C:\Users\gabiv\anaconda3\envs\chatbot
